@@ -1,0 +1,19 @@
+# Windows and editor-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Temporary output and diagnostics
+*.tmp
+*.temp
+*.log
+*.stackdump
+
+# Build output (reserved for future tooling)
+[Bb]in/
+[Oo]bj/
