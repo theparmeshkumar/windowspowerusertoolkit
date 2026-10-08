@@ -6,6 +6,12 @@ The toolkit is designed to make potentially disruptive actions visible: temporar
 
 > **Use at your own risk.** This project changes files and Windows registry entries and can start system maintenance commands. Review the safety notes below before using cleanup, registry, or repair features.
 
+![Preview0](WPUTDashboard.png)
+![Preview0](WPUTTemporaryFiles.png)
+![Preview0](WPUTContextMenu.png)
+![Preview0](WPUTAddRemove.png)
+![Preview0](WPUTMaintenance.png)
+
 ## Contents
 
 - [Features](#features)
